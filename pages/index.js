@@ -20,7 +20,7 @@ export default function Home() {
         <section id="hero" className="h-screen flex items-center justify-center text-center px-6">
           <div>
             <h2 className="text-4xl md:text-6xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-yellow-400 to-green-400">
-              Energie neu gedacht.
+              Energie neu gedacht 2025.
             </h2>
             <p className="text-lg text-gray-300 mb-8 max-w-xl mx-auto">
               Ihre unabhängige Beratung rund um Photovoltaik und Stromspeicher – transparent, nachhaltig, zukunftssicher.
